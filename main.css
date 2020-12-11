@@ -1,0 +1,15 @@
+* {
+   width: 1010px; /* Ширина элемента в пикселах */
+   padding: 10px; /* Поля вокруг текста */
+   margin: auto; /* Выравниваем по центру */
+}
+.content {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-image: url(../img/1.webp);
+}
+.text {
+	color: #ff2e2e
+}
+.text_title	{
+	color: #ff2e2e
+}
